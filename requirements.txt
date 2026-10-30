@@ -1,3 +1,4 @@
+# Versions the published repo already uses (Python 3.12), plus pytest for the tests.
 pandas==2.3.3
 numpy==2.3.5
 scipy==1.15.3
@@ -7,3 +8,4 @@ scikit-learn==1.7.2
 xgboost==3.1.2
 simpy==4.1.2
 pmdarima==2.1.1
+pytest==9.0.2
